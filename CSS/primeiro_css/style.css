@@ -1,0 +1,19 @@
+h1{
+    font-size: 30px;
+    color: green;
+    background-color: rgb(213, 229, 209);
+}
+h4{
+    color: aliceblue;
+}
+li{
+    color: rgb(217, 228, 221);
+}
+body{
+    background-image: url('https://www.nasa.gov/sites/default/files/styles/full_width_feature/public/thumbnails/image/hubble_ngc1961_wfc3_1flat_cont_final.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.moon{
+    color: aqua;
+}
