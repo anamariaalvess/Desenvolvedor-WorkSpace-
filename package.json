@@ -1,0 +1,25 @@
+{
+  "name": "Desenvolvedor-WorkSpace-",
+  "version": "1.0.0",
+  "description": "Goal of this repository is to share my projects developed by using javascript, css, sass, html, etc. Theses project was developed by studing.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "sass": "^1.56.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anamariaalvess/Desenvolvedor-WorkSpace-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anamariaalvess/Desenvolvedor-WorkSpace-/issues"
+  },
+  "homepage": "https://github.com/anamariaalvess/Desenvolvedor-WorkSpace-#readme"
+}
